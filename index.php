@@ -5,6 +5,6 @@
 	</head>
 	<body>
 		<p> This is practice</p>
-		<p> I enjoy this</p>
+		<p> I enjoy this type of work</p>
 	</body>
 </html>
